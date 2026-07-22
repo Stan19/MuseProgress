@@ -7,3 +7,4 @@ Detailed README is availalbe on release page as well.
 
 <img width="1876" height="732" alt="image1" src="https://github.com/user-attachments/assets/dc687183-32ab-4889-b683-15f312abf180" />
 
+The source code of the application is not included.
