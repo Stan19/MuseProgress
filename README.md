@@ -3,7 +3,8 @@ Interactive Windows application for beginner pianists to practice sight-reading 
 
 The archive with the application is availalbe on release page: https://github.com/Stan19/MuseProgress/releases/tag/v1.0.0
 
-Detailed README is availalbe on release page as well. The source code of the application is not included due to too tough.
+Detailed README is availalbe on release page as well. 
+The source code of the application is not included due to not properly structured at present.
 
 <img width="1876" height="732" alt="image1" src="https://github.com/user-attachments/assets/6546dcc1-c2e2-40b7-abf4-05ee8ed3b947" />
 
