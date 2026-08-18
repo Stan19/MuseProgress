@@ -1,7 +1,7 @@
 # MuseProgress
 Interactive Windows application for beginner pianists to practice sight-reading skills. Application displays sheet music and provides visual feedback as the student plays on a digital piano, synthesizer or MIDI keyboard connected to the PC via a USB-MIDI.
 
-The archive with the application is availalbe on release page: (https://github.com/Stan19/MuseProgress/releases/tag/v1.0.0)
+The archive with the application is availalbe on release page: https://github.com/Stan19/MuseProgress/releases/tag/v1.0.0
 
 Detailed README is availalbe on release page as well.
 
