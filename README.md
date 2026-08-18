@@ -9,5 +9,5 @@ Detailed README is availalbe on release page as well.
 
 The source code of the application is not included.
 ##
-Disclaimer
+# Disclaimer
 MuseProgress is a free, independent project built to help musicians. It is not connected to MuseGroup, MuseScore, or any other commercial brands. The project gives musicians access to features that commercial brands usually keep behind a paywall.
